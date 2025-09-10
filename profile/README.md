@@ -4,6 +4,8 @@ At CGHSS, we endeavor to mitigate the threat of public health emergencies in the
 
 For more information on our center, visit our [website](https://ghss.georgetown.edu/) or reach out to us at globalhealthsecurity@georgetown.edu
 
+Here are some of our featured tools and datasets. However, we have many other projects and datasets, so please explore our profile! 
+
 ### Analysis and Mapping of Policies for Emerging Infectious Diseases
 
 AMP EID provides a landscape assessment of the policies and governance regimes relevant to emerging infectious diseases and outbreak response from all UN Member States. Featured datasets include Vaccination, Access & Benefits Sharing, WASH, Quarantine & Isolation, Military Engagement, TRIPS, and relevant treaty involvement. 
